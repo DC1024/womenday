@@ -1,0 +1,38 @@
+.bg
+{
+	background: #0C0C0C;
+}
+.say1
+{	
+	position: absolute;
+	top: 280px;
+	left:700px;
+	font-size:65px;
+	letter-spacing:8px;
+	font-weight: bold;
+	color: #e3b4b8;	
+}
+.say2
+{	
+	position: absolute;
+	top: 500px;
+	left:555px;
+	font-size:65px;
+	letter-spacing:8px;
+	font-weight: bold;
+	color: #e3b4b8;	
+}
+.logo
+{
+	position: absolute;
+	top: 700px;
+	left:927px;
+	width: 120px;
+}
+.yuan
+{
+	position: absolute;
+	top: 700px;
+	left:925px;
+	width: 125px;
+}
