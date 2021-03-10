@@ -1,0 +1,125 @@
+.bg
+{
+	background: url("img/procession.jpg");
+}
+.div1
+{
+	margin:0 auto;
+	height:932px;
+	width:920px;
+	background:#322f3b;
+}
+.say1
+{	
+	position: absolute;
+	top: 30	px;
+	left:830px;
+	font-size:40px;
+	letter-spacing:8px;
+	font-weight: bold;
+	color: #e3b4b8;	
+}
+.say2
+{	
+	position: absolute;
+	top: 80px;
+	left:532px;
+	font-size:40px;
+	letter-spacing:8px;
+	font-weight: bold;
+	color: #e3b4b8;	
+}
+.say3
+{	
+	position: absolute;
+	top: 150px;
+	left:580px;
+	font-size:40px;
+	letter-spacing:8px;
+	font-weight: bold;
+	color: #e3b4b8;	
+}
+.say4
+{	
+	position: absolute;
+	top: 220px;
+	left:580px;
+	font-size:40px;
+	letter-spacing:8px;
+	font-weight: bold;
+	color: #e3b4b8;	
+}
+.say5
+{	
+	position: absolute;
+	top:350px;
+	left:765px;
+	font-size:40px;
+	letter-spacing:8px;
+	font-weight: bold;
+	color: #e3b4b8;	
+}
+.say6
+{	
+	position: absolute;
+	top:425px;
+	left:575px;
+	font-size:40px;
+	letter-spacing:8px;
+	font-weight: bold;
+	color: #e3b4b8;	
+}
+.say7
+{	
+	position: absolute;
+	top:500px;
+	left:650px;
+	font-size:40px;
+	letter-spacing:8px;
+	font-weight: bold;
+	color: #e3b4b8;	
+}
+.say8
+{	
+	position: absolute;
+	top:575px;
+	left:575px;
+	font-size:40px;
+	letter-spacing:8px;
+	font-weight: bold;
+	color: #e3b4b8;	
+}
+.say9
+{	
+	position: absolute;
+	top:650px;
+	left:775px;
+	font-size:40px;
+	letter-spacing:8px;
+	font-weight: bold;
+	color: #e3b4b8;	
+}
+.say10
+{	
+	position: absolute;
+	top:725px;
+	left:630px;
+	font-size:40px;
+	letter-spacing:8px;
+	font-weight: bold;
+	color: #e3b4b8;	
+}
+.logo
+{
+	position: absolute;
+	top: 800px;
+	left:882px;
+	width: 120px;
+}
+.yuan
+{
+	position: absolute;
+	top: 800px;
+	left:880px;
+	width: 125px;
+}
